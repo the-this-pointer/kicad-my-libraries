@@ -1,6 +1,7 @@
 ### Ki-Cad Libraries Used in Projects
 
 To use this libraries with 3d models loaded you should do the following steps:
+
 	1. Clone this repository in a directory **recursively**.
 	
 	2. Go to `Prefrences` -> `Configure Paths...`, and add the path of directory under the name of `THISPTR_LBR_DIR`
