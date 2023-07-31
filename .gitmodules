@@ -1,0 +1,9 @@
+[submodule "kicad-oled-ssd1306-128x64"]
+	path = kicad-oled-ssd1306-128x64
+	url = https://github.com/the-this-pointer/kicad-oled-ssd1306-128x64
+[submodule "kicad-oled-ssd1306-128x32"]
+	path = kicad-oled-ssd1306-128x32
+	url = https://github.com/the-this-pointer/kicad-oled-ssd1306-128x32
+[submodule "kicad-rf-esp8266"]
+	path = kicad-rf-esp8266
+	url = https://github.com/the-this-pointer/kicad-rf-esp8266
