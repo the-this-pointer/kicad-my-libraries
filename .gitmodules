@@ -7,3 +7,6 @@
 [submodule "kicad-rf-esp8266"]
 	path = kicad-rf-esp8266
 	url = https://github.com/the-this-pointer/kicad-rf-esp8266
+[submodule "kicad-connector-pinheader-female-3d"]
+	path = kicad-connector-pinheader-female-3d
+	url = https://github.com/the-this-pointer/kicad-connector-pinheader-female-3d.git
