@@ -10,3 +10,9 @@
 [submodule "kicad-connector-pinheader-female-3d"]
 	path = kicad-connector-pinheader-female-3d
 	url = https://github.com/the-this-pointer/kicad-connector-pinheader-female-3d.git
+[submodule "kicad-modules"]
+	path = kicad-modules
+	url = https://github.com/the-this-pointer/kicad-modules
+[submodule "kicad-rf-esp32"]
+	path = kicad-rf-esp32
+	url = https://github.com/the-this-pointer/kicad-rf-esp32
