@@ -16,3 +16,12 @@
 [submodule "kicad-rf-esp32"]
 	path = kicad-rf-esp32
 	url = https://github.com/the-this-pointer/kicad-rf-esp32
+[submodule "kicad-custom-components-library"]
+	path = kicad-custom-components-library
+	url = https://github.com/the-this-pointer/kicad-custom-components-library.git
+[submodule "kicad-sim800l"]
+	path = kicad-sim800l
+	url = https://github.com/the-this-pointer/kicad-sim800l.git
+[submodule "kicad-connector-pinheader-male-3d"]
+	path = kicad-connector-pinheader-male-3d
+	url = https://github.com/the-this-pointer/kicad-connector-pinheader-male-3d.git
